@@ -1,1 +1,3 @@
-Iris-DecisionTree-pySpark
+A árvore de decisão é um dos métodos mais comuns no aprendizado de máquina mais antigas e amplamente utilizadas, podendo ser usado para classicar um elemento através da análise das relações entre suas variáveis. Esses algoritmos subdividem progressivamente os dados em conjuntos cada vez menores e mais específicos, em termos de seus atributos, até atingirem um tamanho simplificado o bastante para ser rotulado. Para isso é necessário treinar o modelo com dados previamente rotulados, de modo a aplicá-lo a dados novos.
+
+O objetivo deste exercício é através da utilização do pySpark no ambiente do Google Collab prever a espécie de íris de uma flor pelas características dadas. Vamos prever a espécie através do conjunto de dados de  3 espécies de íris onde foram coletadas 50 amostras para cada uma espécie, considerando a espécie como a variável de saída e as outras variáveis de tamanhos de pétalas e sépalas como entrada.
